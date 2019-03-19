@@ -1,14 +1,6 @@
 # Learn to Read Tests!
 This is a list of exercises to understand test scripts.
 
-**BEFORE DOING THE EXERCISES,**
-
-Watch this video ->. [Learn to Read Tests](https://www.youtube.com/watch?v=h_WrZjIyBDU)
-
-*And*
-
-Watch this video -> [Learn to Read Tests pt. 2](https://www.youtube.com/watch?v=KfiAFcF6A2k)
-
 ## Why?
 
 Reading and understanding tests is CRUCIAL to succeed in Hola Code, AND as a software engineer. 
