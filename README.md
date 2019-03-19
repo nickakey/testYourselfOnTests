@@ -1,11 +1,13 @@
 # Learn to Read Tests!
-This is a list of exercises to complete **after watching **
+This is a list of exercises to understand test scripts.
 
-This video ->. [Learn to Read Tests](https://www.youtube.com/watch?v=h_WrZjIyBDU)
+**BEFORE DOING THE EXERCISES,**
+
+Watch this video ->. [Learn to Read Tests](https://www.youtube.com/watch?v=h_WrZjIyBDU)
 
 *And*
 
-This video -> [Learn to Read Tests pt. 2](https://www.youtube.com/watch?v=KfiAFcF6A2k)
+Watch this video -> [Learn to Read Tests pt. 2](https://www.youtube.com/watch?v=KfiAFcF6A2k)
 
 ## Why?
 
