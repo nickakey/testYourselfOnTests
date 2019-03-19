@@ -36,11 +36,18 @@ function countWords(a){
 QUESTION SET NUMBER 1: (on the "countWords" function)
 
 * How many tests are there?
-* On test number 1, what is expected?
-* On test number 1, what is the actual
+
+* On test number 1, what is expected? 
+    CORRECT ANSWER: the string "object"
+
+* On test number 1, what is the actual? 
+    CORRECT ANSWER: it is the typeof whatever countWords returns
+
 * On test number 2, what is the expected?
+    CORRECT ANSWER: It is the object named result
 
 * Uncomment out the countWords function. Which (if any) tests would this function pass?
+    CORRECT ANSWER: It would pass only the last test. 
 
 */
 
@@ -69,12 +76,22 @@ function repeatString(string, num){
 QUESTION SET NUMBER 2: (on the "repeatString" function)
 
 * How many tests are there?
+    CORRECT ANSWER: 3
+
 * On test number 2, what is the expected?
+    CORRECT ANSWER: the string "whatwhatwhat"
+
 * On test number 2, what is the actual?
+    CORRECT ANSWER: Whatever is returned from repeatString("what", 3);
+
 * On test number 3, what is the expected?
+    CORRECT ANSWER: an empty string ""
+
 * On test number 3, what is the actual?
+    CORRECT ANSWER: Whatever is returned from repeatString("what", 0);
 
 * Uncomment out the repeatString function. Which (if any) tests would this function pass?
+    CORRECT ANSWER: It would only pass the 3rd test
 
 */
 
@@ -105,11 +122,19 @@ function uniq(nums){
 QUESTION SET NUMBER 3: 
 
 * What is the name of the function we are testing here?
+    CORRECT ANSWER: uniq
+
 * How many tests are there?
+    CORRECT ANSWER: 2
+
 * On test number 2, what is the expected?
+    CORRECT ANSWER: it's expected that the actual WILL NOT EQUAL [1, 2, 1, 3, 1, 4]
+
 * On test number 2, what is the actual?
+    CORRECT ANSWER: Whatever is returned from uniq(numbers)
 
 * Uncomment the uniq function. Which (if any) - tests will this function uniq pass?
+    CORRECT ANSWER: It will pass the 2nd test
 
 */
 
@@ -132,9 +157,15 @@ describe('Bee class functionality', function() {
 QUESTION SET NUMBER 4: 
 
 * How many tests are there?
+    CORRECT ANSWER: 2
+
 * What is the actual on test 2?
+    CORRECT ANSWER: bee.color
+
 * what is the expected on test 2?
+    CORRECT ANSWER: The string "yellow"
 
 * Write a bee object that would pass the tests
+    CORRECT ANSWER: var bee = {age: 5, color: "yellow"}
 
 */
