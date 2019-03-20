@@ -1,6 +1,8 @@
 # Learn to Read Tests!
 This is a list of exercises to understand test scripts.
 
+![Gif of Lisa Simpson saying "I think we should do a test"](https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif)
+
 ## Why?
 
 Reading and understanding tests is CRUCIAL to succeed in Hola Code, AND as a software engineer. 
