@@ -7,7 +7,7 @@ This is a list of exercises to understand test scripts.
 
 Reading and understanding tests is CRUCIAL to succeed in Hola Code, AND as a software engineer. 
 
-The above videos, and this exercise file will help you MASTER reading tets. 
+The below videos, and this exercise file will help you MASTER reading tets. 
 
 ## How to Use
 
